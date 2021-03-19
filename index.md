@@ -4,6 +4,7 @@
 
 
 ### 1. Bio
+>Quang is a college graduate from George Brown College with the average GPA of 3.9. He passionate about modern technology and the process of digital adoption. Seeking web developer position.
 
 ### 2. Cover Letter
 [Link to cover letter](https://drive.google.com/file/d/1gy76HUFjp9j5KBldNUAaEybaTmULM8PR/view?usp=sharing)
@@ -11,6 +12,7 @@
 [Link to resume](https://drive.google.com/file/d/1c4OMeSB0WLcc-zvif1cS6mECc-cZL9ZM/view?usp=sharing)
 
 ### 4. Career Goal 
+>To become a web developer in the next 3 years. To achive this, I will develop proficient skills in Fullstack Development. I will also improve my organization skills and imbibe a problem-solving attitude
 ## II. Academic credentials
 *September 2018 - April 2021*
 
